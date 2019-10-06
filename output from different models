@@ -1,0 +1,15 @@
+model outpu
+
+Decsion Tree
+Mean:  3.7527481399460165
+Standard devitation:  1.1136580579706379
+
+
+
+Linear regreation
+Mean:  5.037482786117751
+Standard devitation:  1.0594382405606948
+
+RandomForestRegressor
+Mean:  3.7527481399460165
+Standard devitation:  1.1136580579706379
